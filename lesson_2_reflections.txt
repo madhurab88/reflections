@@ -1,3 +1,61 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 initializing a repository only will help to store the files and help track them.
+
+how can you use the staging area to make sure you have one commit per logical change?
+
+staging area will act as a intermediate stage which will hold the list of the files which is added by the user based on the changes.user can add only the files responsible for a logical change into staging area and then use a single commit.
+
+what are the situations when branches would be helpful in keeping your history organised?how would branches help?
+
+branches are helpful-
+
+for experimenting new things on existing working code wothout breaking it
+for adding multiple versions(different languages,diff syntax) of the same commit.
+
+how do the diagrams help you visualise the branch staructure?
+ diagrams always helps in better understanding and hence better understanding of the branching
+
+what is the result of merging two branches together?why do we represent it in the diagram the way we do?
+
+merging two different branches will result in combining the functionality of both the branches without breaking the code.representing it in a diagram gives the clear idea and understanding of the branches and its merges.
+
+
+what are the pros and cons og Git's automatic merging vs. always doing merges manually?
+
+pros-
+automatic merging would reduce the inervention and time from the programmar.
+makes the job easier.
+
+cons-
+programmar shud manually do the work to resolve the conflicts.
+it would take more time from the programmar end.
+adds the rework 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
